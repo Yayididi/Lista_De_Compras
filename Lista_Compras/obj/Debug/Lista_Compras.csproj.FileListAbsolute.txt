@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\bin\Debug\Lista_Compras.exe.config
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\bin\Debug\Lista_Compras.exe
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\bin\Debug\Lista_Compras.pdb
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.Form1.resources
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.Properties.Resources.resources
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.exe
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.pdb
+C:\Users\USER\source\repos\Lista_Compras\Lista_Compras\obj\Debug\Lista_Compras.exe.config
